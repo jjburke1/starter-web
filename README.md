@@ -22,4 +22,4 @@ Deployment text
 
 ### Copyright
 
-Copyright notice
+Copyright notice All rights reserved
